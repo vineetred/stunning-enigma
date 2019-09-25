@@ -7,3 +7,6 @@
   - Or maybe we just build the tools and write a paper on it.
   - Fake news detector.
   
+## Papers
+- https://www.pnas.org/content/116/7/2521
+- https://www.ncbi.nlm.nih.gov/pubmed/29935897
