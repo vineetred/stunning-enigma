@@ -6,10 +6,10 @@ To reduce misinformation online.
 
 ## Specifics:
 
-A web application, where, given a link to a Facebook/Instagram/Twitter post, we output a prediction on whether the news in that post is real or fake.
+A web application, where, given a link to a Facebook/Instagram/Twitter post, we output a prediction on whether the news in that post is real or fake. Alternatively, we can give a percentage of how sure our classifier is that it's fake news or real news.
 
 Input : A valid url to a post.
-Output: Boolean, True or False.
+Output: Boolean, True or False(Or a %).
 
 ## Method:
 
