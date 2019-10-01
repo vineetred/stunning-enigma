@@ -17,6 +17,18 @@ Output: Boolean, True or False(Or a %).
 - Instead of analysing user behavior, we use the contents of newspapers/social media articles to train a classifier to distinguish between real and fake data(Supervised Learning).
 - Find websites which only distribute fake news and websites that are proven to be trust-worthy. Use this information to create datasets of just fake and real news. Use these datasets in unsupervised learning to find features of fake news which don't need to be manually crafted. Use these features alone or in tandem with supervised learning features to see if there is a boost in overall accuracy.
 
+## To do:
+
+- Have a fakeness factor. We can't binarize it. Have something intresting to classify. Make sure this is assumption is made everywhere. We need a more nuanced scale.
+- Collating publically available datasets to first do it. Do something with this large dataset.
+- Maybe these fact checking websites are not as trust worthy because they might be biased.
+- We use this data to replicate Mr. Rand's work. We waOn the way to do that, we should also, 
+- The app thing sounds good but will take very long. Next winter.
+- Find the coloured graphs man.
+- Read more Rand and Politiecho.
+- Brazil election read up about how they are
+
+
 ## Papers
 - https://www.pnas.org/content/116/7/2521
 - https://www.ncbi.nlm.nih.gov/pubmed/29935897
