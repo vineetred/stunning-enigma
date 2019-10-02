@@ -34,8 +34,6 @@ Output: Boolean, True or False(Or a %).
 - https://www.ncbi.nlm.nih.gov/pubmed/29935897
 - https://arxiv.org/pdf/1704.07506.pdf
 - http://www.public.asu.edu/~skai2/files/aaai_2019_unsupervised.pdf
-- http://delivery.acm.org/10.1145/3140000/3132877/p797-ruchansky.pdf
 - http://openaccess.thecvf.com/content_ECCV_2018/papers/Jacob_Huh_Fighting_Fake_News_ECCV_2018_paper.pdf
 - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8397048
-- http://delivery.acm.org/10.1145/3160000/3159677/p637-wu.pdf
 - https://dl.acm.org/citation.cfm?id=3159677
