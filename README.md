@@ -38,5 +38,4 @@ Output: Boolean, True or False(Or a %).
 - http://openaccess.thecvf.com/content_ECCV_2018/papers/Jacob_Huh_Fighting_Fake_News_ECCV_2018_paper.pdf
 - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8397048
 - http://delivery.acm.org/10.1145/3160000/3159677/p637-wu.pdf
-- https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8397049
 - https://dl.acm.org/citation.cfm?id=3159677
